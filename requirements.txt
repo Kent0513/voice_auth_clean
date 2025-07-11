@@ -1,0 +1,24 @@
+Last login: Thu Jul 10 20:39:41 on ttys000
+akordway@mac ~ % flask
+numpy
+librosa
+matplotlib
+soundfile  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
